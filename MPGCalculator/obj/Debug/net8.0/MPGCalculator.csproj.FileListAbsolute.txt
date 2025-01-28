@@ -1,0 +1,15 @@
+/workspaces/Module2Challenge/MPGCalculator/bin/Debug/net8.0/MPGCalculator
+/workspaces/Module2Challenge/MPGCalculator/bin/Debug/net8.0/MPGCalculator.deps.json
+/workspaces/Module2Challenge/MPGCalculator/bin/Debug/net8.0/MPGCalculator.runtimeconfig.json
+/workspaces/Module2Challenge/MPGCalculator/bin/Debug/net8.0/MPGCalculator.dll
+/workspaces/Module2Challenge/MPGCalculator/bin/Debug/net8.0/MPGCalculator.pdb
+/workspaces/Module2Challenge/MPGCalculator/obj/Debug/net8.0/MPGCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module2Challenge/MPGCalculator/obj/Debug/net8.0/MPGCalculator.AssemblyInfoInputs.cache
+/workspaces/Module2Challenge/MPGCalculator/obj/Debug/net8.0/MPGCalculator.AssemblyInfo.cs
+/workspaces/Module2Challenge/MPGCalculator/obj/Debug/net8.0/MPGCalculator.csproj.CoreCompileInputs.cache
+/workspaces/Module2Challenge/MPGCalculator/obj/Debug/net8.0/MPGCalculator.sourcelink.json
+/workspaces/Module2Challenge/MPGCalculator/obj/Debug/net8.0/MPGCalculator.dll
+/workspaces/Module2Challenge/MPGCalculator/obj/Debug/net8.0/refint/MPGCalculator.dll
+/workspaces/Module2Challenge/MPGCalculator/obj/Debug/net8.0/MPGCalculator.pdb
+/workspaces/Module2Challenge/MPGCalculator/obj/Debug/net8.0/MPGCalculator.genruntimeconfig.cache
+/workspaces/Module2Challenge/MPGCalculator/obj/Debug/net8.0/ref/MPGCalculator.dll
